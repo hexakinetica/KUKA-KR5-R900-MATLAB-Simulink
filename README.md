@@ -3,6 +3,7 @@
 
  This repository contains simulation model of KUKA KR5 R900 robot in MATLAB Simulink for educational and visualization purposes.
 
+![Screenshot: ](Screenshot.jpg)
 
 #### Youtube video with [demonstration](https://youtu.be/zROcYgskG9s).
 
@@ -20,7 +21,7 @@ We welcome contributions from the community! If you'd like to improve the models
 
 ### Contact
 
-HexaKinetic Open-Source Robotics Email: contact@hexakinetica.com
+Email: contact@hexakinetica.com
 Website: https://www.hexakinetica.com
 
 
