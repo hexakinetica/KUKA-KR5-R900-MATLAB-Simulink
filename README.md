@@ -1,5 +1,5 @@
 ## KUKA-KR5-R900-MATLAB-Simulink
- Simulink basic simulation of the KUKA KR5 R900 sixx robot
+#### Simulink basic simulation of the KUKA KR5 R900 sixx robot
 
  This repository contains simulation model of KUKA KR5 R900 robot in MATLAB Simulink for educational and visualization purposes.
 
@@ -8,7 +8,6 @@
 #### Youtube video with [demonstration](https://youtu.be/zROcYgskG9s).
 
  These models are intended for use in research and educational projects. The repository includes:
-
 * Simplified CAD models of industrial robotic arm;
 * Simulink real-time simulation of the KUKA KR5 R900 sixx robot;
 * Analytical solution of 6DOF inverse kinematics;
