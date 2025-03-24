@@ -5,7 +5,7 @@
 
 ![Screenshot: ](Screenshot.jpg)
 
-#### Youtube video with [demonstration](https://youtu.be/zROcYgskG9s).
+#### Youtube video with [demonstration](https://youtu.be/weFnC1hN1zk?si=yponWfFYFIOhvZPz).
 
  These models are intended for use in research and educational projects. The repository includes:
 * Simplified CAD models of industrial robotic arm;
